@@ -1,0 +1,149 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Objetivo General",
+    "section": "",
+    "text": "Objetivo General\nEl curso títulado Identificación de los Focos de Transmisión Activa de las Arbovirosis en R tiene como objetivo central desarrollar las competencias específicas para la identificación de los escenarios operativo o epidemiológicos del riesgo de la transmisión de los virus del dengue en áreas urbanas y metropolitanas de México usando información entomológica y epidemiológica con la finalidad orientar las acciones de prevención y control del Manejo Integrado de las Arbovirosis en México.\n\n\nObjetivos Específicos\n\nIdentificar los hotspots de la abundancia de huevos del vector del dengue en las localidades urbanas endémicas de México.\nIdentificar las cadenas de transmisión activa del dengue en las localidades urbanas endémicas de México.\nImplementar el modelo Log Gaussian Cox Process en las localidades urbanas endémicas de México.\nGenerar los mapas de calor en las localidades urbanas endémicas de México.\nDesarrollar un modelo estratégico de focalización del dengue en las localidades urbanas endémicas de México.\n\n\n\nAudiencia\nEl curso de Identificación de los Focos de Transmisión Persistente & Activa de las Arbovirosis en R esta complementado con el desarrollo de paquetes colectivamente llamados dengueverse (rgeomex, denhotspots, deneggs, dencontrol, denepikit) y el manual para la identificación de los hotspots en las localidades urbanas endémicas. Tanto los cursos, el parquete y el manual, no solo está dirigido al personal operativo, mandos medios y directivos de los Programas de Prevención y Control de las arbovirosis transmitidas por Aedes de la Secretaría de Salud de México, sino también a la comunidad académica relacionada con la investigación operativa sobre el análisis espacial de dengue y al público en general interesado en el tema."
+  },
+  {
+    "objectID": "temario.html",
+    "href": "temario.html",
+    "title": "Focos de Transmisión Activa del Dengue en Morelos",
+    "section": "",
+    "text": "El curso esta complementado con el desarrollo de paquetes en R y el manual para la identificación de los hotspots en las localidades urbanas endémicas. Tanto los cursos, el parquete y el manual, no solo está dirigido al personal operativo, mandos medios y directivos de los Programas de Prevención y Control de las arbovirosis transmitidas por Aedes de la Secretaría de Salud de México, sino también a la comunidad académica relacionada con la investigación operativa sobre el análisis espacial de dengue y al público en general interesado en el tema."
+  },
+  {
+    "objectID": "temario.html#audiencia",
+    "href": "temario.html#audiencia",
+    "title": "Focos de Transmisión Activa del Dengue en Morelos",
+    "section": "",
+    "text": "El curso esta complementado con el desarrollo de paquetes en R y el manual para la identificación de los hotspots en las localidades urbanas endémicas. Tanto los cursos, el parquete y el manual, no solo está dirigido al personal operativo, mandos medios y directivos de los Programas de Prevención y Control de las arbovirosis transmitidas por Aedes de la Secretaría de Salud de México, sino también a la comunidad académica relacionada con la investigación operativa sobre el análisis espacial de dengue y al público en general interesado en el tema."
+  },
+  {
+    "objectID": "temario.html#temario",
+    "href": "temario.html#temario",
+    "title": "Focos de Transmisión Activa del Dengue en Morelos",
+    "section": "Temario",
+    "text": "Temario"
+  },
+  {
+    "objectID": "temario.html#módulo-i.-requisitos-básicos",
+    "href": "temario.html#módulo-i.-requisitos-básicos",
+    "title": "Focos de Transmisión Activa del Dengue en Morelos",
+    "section": "Módulo I. Requisitos Básicos",
+    "text": "Módulo I. Requisitos Básicos\n\n\n\n\n\n\n\nInstalación de Paquetes\ndengueverse\nDatos Espaciales\n\n\nMódulo V. Focos de la Transmisión Activa de las Arbovirosis.\n\n\n\n\n\n\n\nGeocoding API Key\n\n\n\nMódulo III. Hotspots de la abundancia de huevos del vector del dengue en las localidades urbanas endémicas de México\n\n\n\n\n\n\n\nHotspots de Vector del Dengue\nHotspots de Vector del Dengue en R"
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "References"
+  },
+  {
+    "objectID": "Labs.html",
+    "href": "Labs.html",
+    "title": "Focos de Transmisión Activa del Dengue en Morelos",
+    "section": "",
+    "text": "Que el personal de vectores desarrolle las competencias específicas para instalar paquetes desde CRAN, GitHub o archivos binarios.\n\n\n\nInstalar los siguientes paquete desde CRAN\n\ntidyverse\neasystats\ntidymodels\ndata.table\nreactable\n\nInstalar los siguientes paquete desde GitHub\n\nKrigR"
+  },
+  {
+    "objectID": "Labs.html#laboratorio-de-la-unidad-i",
+    "href": "Labs.html#laboratorio-de-la-unidad-i",
+    "title": "Focos de Transmisión Activa del Dengue en Morelos",
+    "section": "",
+    "text": "Que el personal de vectores desarrolle las competencias específicas para instalar paquetes desde CRAN, GitHub o archivos binarios.\n\n\n\nInstalar los siguientes paquete desde CRAN\n\ntidyverse\neasystats\ntidymodels\ndata.table\nreactable\n\nInstalar los siguientes paquete desde GitHub\n\nKrigR"
+  },
+  {
+    "objectID": "Labs.html#laboratorio-de-la-unidad-ii",
+    "href": "Labs.html#laboratorio-de-la-unidad-ii",
+    "title": "Focos de Transmisión Activa del Dengue en Morelos",
+    "section": "Laboratorio de la Unidad II",
+    "text": "Laboratorio de la Unidad II\n\nObjetivo.\nQue el personal de vectores desarrolle las competencias específicas para realizar la geocodificación y el análisis de los focos de la transmisión activa de las arbovirosis en R\n\n\nActividad 1\n\nBajar la carpeta geocodificación_dengue_sinave_edo17 de GitHub.\nGeocodificar las bases de datos históricas del SINAVE.\n\n\n\nActividad 2\n\nBajar la carpeta Focos de Transmisión Activa de las arbovirosis de GitHub.\nRealizar el análisis de los focos de transmisión activa en la o las localidades prioritarias del estado.\nElaborar los mapas estáticos e interactivos"
+  },
+  {
+    "objectID": "Labs.html#laboratorio-de-la-unidad-iii",
+    "href": "Labs.html#laboratorio-de-la-unidad-iii",
+    "title": "Focos de Transmisión Activa del Dengue en Morelos",
+    "section": "Laboratorio de la Unidad III",
+    "text": "Laboratorio de la Unidad III\n\nObjetivo.\nQue el personal de vectores desarrolle las competencias específicas para realizar la predicción de huevos usando el análisis geoestadístico con SPDE-INLA.\n\n\nActividad 2\n\nBajar las bases de datos históricas de las lecturas de ovitrampas del 2014 al 2019\nBajar las bases de datos de lecturas de ovitrampas del año en curso hasta el mes que se esta realizando el curso.\n\n\n\nActividad 2\n\nBajar la carpeta eggs_hotspots_17_morelos de GitHub.\nRealizar la predicción del número de huevos en la o las localidades prioritarias del estado de procedencia del personal que asiste al curso.\nVisualizar los mapas predictivos."
+  },
+  {
+    "objectID": "links.html",
+    "href": "links.html",
+    "title": "Geocomputacion with R",
+    "section": "",
+    "text": "Geocomputacion with R\n\n\n\n\nGeocomputacion with Python\n\n\n\n\nGeocomputacion with Julia\n\n\n\n\nSpatial Data Science in R\n\n\n\n\nSpatial, Temporal and Spatial-Temporal Ecological Data Analysis with R\n\n\n\n\nSpatial, Temporal and Spatio-temporal Bayesian Models with R-INLA\n\n\n\n\nDynamic Time Series Models R INLA\n\n\n\n\nSpatial Statistics For Data Science\n\n\n\n\nGeospatial Health Data. Mododeling and Visualization with R-INLA and Shiny\n\n\n\n\nGeographic Data Science With R\n\n\n\n\nAdvanced Spaatial Modeling With Stochastic Partial Differential Equations Using R and INLA"
+  },
+  {
+    "objectID": "contacto.html",
+    "href": "contacto.html",
+    "title": "Dr. Felipe Antonio Dzul Manzanilla",
+    "section": "",
+    "text": "Dr. Felipe Antonio Dzul Manzanilla\n\nTelefono personal: 999 958 0167\nTelefono oficina: 329 30 00 Ext. 3225\nCorreo: felipe.dzul.m@gmail.com, investigador41@insp.mx\nGoogle académico: https://scholar.google.es/citations?user=3e3-4VkAAAAJ&hl=es\ngithub: https://github.com/fdzul\nbio : https://sparkly-kleicha-e38ffa.netlify.app\ninsp: https://www.insp.mx/centros/sistemas-de-salud/investigador/dzul-manzanilla-felipe-antonio\n\n\n\nDr. Fabián Correa Morales\n\nTelefono personal: 55 7474 5576\nCorreo: fabiancorrea@msn.com\nGoogle académico: https://scholar.google.com/citations?hl=en&user=JceGxawAAAAJ\n\n\n\nDr. Héctor Gómez Dantes\n\nTelefono oficina: 329 30 00 Ext. 3225\nCorreo: hector.gomez@@insp.mx\nGoogle académico: https://scholar.google.es/citations?user=wl8S934AAAAJ&hl=es\ninsp: https://insp.mx/centros/sistemas-de-salud/investigador/gomez-dantes-hector"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Focos de Transmisión Activa del Dengue en Morelos",
+    "section": "",
+    "text": "Curso presencial de Lunes, Miercoles y Jueves."
+  },
+  {
+    "objectID": "about.html#formato-del-curso",
+    "href": "about.html#formato-del-curso",
+    "title": "Focos de Transmisión Activa del Dengue en Morelos",
+    "section": "",
+    "text": "Curso presencial de Lunes, Miercoles y Jueves."
+  },
+  {
+    "objectID": "about.html#sede",
+    "href": "about.html#sede",
+    "title": "Focos de Transmisión Activa del Dengue en Morelos",
+    "section": "Sede",
+    "text": "Sede\nBorda 3, Cuernavaca Centro, Centro, 62000 Cuernavaca, Morelos, México."
+  },
+  {
+    "objectID": "about.html#fecha",
+    "href": "about.html#fecha",
+    "title": "Focos de Transmisión Activa del Dengue en Morelos",
+    "section": "Fecha",
+    "text": "Fecha\n2 y 4 de Junio de 2025"
+  },
+  {
+    "objectID": "about.html#requisitos-de-conceptos-teóricos",
+    "href": "about.html#requisitos-de-conceptos-teóricos",
+    "title": "Focos de Transmisión Activa del Dengue en Morelos",
+    "section": "Requisitos de conceptos teóricos",
+    "text": "Requisitos de conceptos teóricos\nEs ideal tener conocimientos de los conceptos básicos de los sistemas de información geográfica (SIG), como vector (puntos, líneas y polígonos), ráster y sistemas de referencia de coordenadas (Coordinate Reference System = CRS), pero no es necesario."
+  },
+  {
+    "objectID": "about.html#requisitos-computacionales",
+    "href": "about.html#requisitos-computacionales",
+    "title": "Focos de Transmisión Activa del Dengue en Morelos",
+    "section": "Requisitos computacionales",
+    "text": "Requisitos computacionales\nEs deseable tener experiencia en R o Python o cualquier otro lenguaje de programación, principalmente en subir archivos de texto (csv, txt, xlsx), archivos geográficos, crear gráficos simples y manipular bases de datos en R. Sin embargo, si no se tiene experiencia con R pero ya usa software SIG y tiene un conocimiento sólido de los tipos de datos geográficos, algo o nula experiencia en programación, el curso también puede ser apropiado para usted siempre y cuando tenga la necesidad o el deseo aprender nuevas herramientas para la elaboración y diseño de mapas en R."
+  },
+  {
+    "objectID": "about.html#requisitos-de-equipo-software",
+    "href": "about.html#requisitos-de-equipo-software",
+    "title": "Focos de Transmisión Activa del Dengue en Morelos",
+    "section": "Requisitos de Equipo & Software",
+    "text": "Requisitos de Equipo & Software\n\nComputadora\nSe requiere una computadora portátil o de escritorio con una versión funcional de R, RStudio y Rtools. R y RStudio están disponibles como software gratuito y de código abierto para Windows, Mac y Linux. R y Rtools se puede descargar siguiendo el enlace https://www.r-project.org/. RStudio se puede descargar siguiendo el enlace: https://posit.co/.\nEn el curso se abordarán brevemente otras IDE (Integrated Development Environment) para trabajar con R.\n\nPositron\nVisual Studio Code\nGoogle Colaboratory\n\nExperiencia en la instalación de paquetes en R\nTodos los paquetes R que utilizaremos en este curso se podrán descargar e instalar durante el taller en sí, según sea necesario, y se pondrá a disposición de todos los asistentes una lista completa de los paquetes necesarios antes del curso\nClaves del SINAVE\nEs importante contar con su usuario y contraseña del modulo de vectores del SINAVE. En el taller se usarán las bases de datos de vectores (principalmente DENGUE) para la elaboración de los mapas.\nRequisitos adicionales\nEs conveniente contar con una cámara web que funcione para mejorar la interactividad durante las sesiones. Así mismo, recomendamos a los asistentes que mantengan sus cámaras apagadas durante las sesiones y microfonos apagados. Aunque no es estrictamente obligatorio, el uso de un monitor grande o, preferiblemente, incluso un segundo monitor mejorará la experiencia de aprendizaje."
+  },
+  {
+    "objectID": "about.html#inscripción-al-curso",
+    "href": "about.html#inscripción-al-curso",
+    "title": "Focos de Transmisión Activa del Dengue en Morelos",
+    "section": "Inscripción al curso",
+    "text": "Inscripción al curso\nLas inscripciones estarán abiertas tan pronto como el Director & Subdirector de Vectores del CENAPRECE autorize las unidades didácticas del curso. El link para la inscripción la encontrarán en este apartado.\nInscripción"
+  },
+  {
+    "objectID": "about.html#examen",
+    "href": "about.html#examen",
+    "title": "Focos de Transmisión Activa del Dengue en Morelos",
+    "section": "Examen",
+    "text": "Examen\nSe realizá un examen previo y posterior al curso. El examen previo se realizá una semana antes del curso y el examen posterior se realizará durante el curso.\nExamen Previo\nExamen Posterior"
+  }
+]

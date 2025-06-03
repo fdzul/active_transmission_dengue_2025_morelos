@@ -1,0 +1,28 @@
+---
+title: ""
+---
+
+![](imagenes/logo_course2.png)
+
+![](https://www.ssm.gob.mx/portal/img/ssm_logo_OK_VEDA.png)
+
+
+# **Objetivo General**
+
+El curso títulado **Identificación de los Focos de Transmisión Activa de las Arbovirosis en R** tiene como objetivo central desarrollar las competencias específicas para la identificación de los escenarios operativo o epidemiológicos del riesgo de la transmisión de los virus del dengue en áreas urbanas y metropolitanas de México usando información entomológica y epidemiológica con la finalidad orientar las acciones de prevención y control del Manejo Integrado de las Arbovirosis en México.
+
+# **Objetivos Específicos**
+
+1.  Identificar los hotspots de la abundancia de huevos del vector del dengue en las localidades urbanas endémicas de México.
+
+2.  Identificar las cadenas de transmisión activa del dengue en las localidades urbanas endémicas de México.
+
+3.  Implementar el modelo Log Gaussian Cox Process en las localidades urbanas endémicas de México.
+
+4.  Generar los mapas de calor en las localidades urbanas endémicas de México.
+
+5.  Desarrollar un modelo estratégico de focalización del dengue en las localidades urbanas endémicas de México.
+
+# Audiencia
+
+El curso de **Identificación de los Focos de Transmisión Persistente & Activa de las Arbovirosis en R** esta complementado con el desarrollo de paquetes colectivamente llamados **dengueverse** (rgeomex, denhotspots, deneggs, dencontrol, denepikit) y el [manual para la identificación de los hotspots en las localidades urbanas endémicas](https://fdzul.github.io/manual_hotspots/). Tanto los cursos, el parquete y el manual, no solo está dirigido al personal operativo, mandos medios y directivos de los Programas de Prevención y Control de las arbovirosis transmitidas por *Aedes* de la Secretaría de Salud de México, sino también a la comunidad académica relacionada con la investigación operativa sobre el análisis espacial de dengue y al público en general interesado en el tema.

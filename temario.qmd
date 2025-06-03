@@ -1,0 +1,90 @@
+---
+title: ""
+---
+
+## Audiencia
+
+El curso esta complementado con el desarrollo de paquetes en R y el [manual para la identificación de los hotspots en las localidades urbanas endémicas](https://fdzul.github.io/manual_hotspots/). Tanto los cursos, el parquete y el manual, no solo está dirigido al personal operativo, mandos medios y directivos de los Programas de Prevención y Control de las arbovirosis transmitidas por *Aedes* de la Secretaría de Salud de México, sino también a la comunidad académica relacionada con la investigación operativa sobre el análisis espacial de dengue y al público en general interesado en el tema.
+
+## Temario
+
+## Módulo I. Requisitos Básicos
+
+```{r temario_modulo_I, echo=FALSE}
+tibble::tibble(Tema = c("Instalar R",
+                         "Instalar RStudio",
+                         "Introducción a RStudio",
+                         "Instalación de Paquetes desde CRAN",
+                         "Instalación de Paquetes desde github",
+                         "Instalación de Paquetes desde un archivo",
+                         "Instalación de Paquetes para el análisis espacial",
+                         "Instalación de Paquetes desarrollados por CENAPRECE-InDRE",
+                        "Datos Espaciales"),
+               Instructor = c(rep("Felipe Antonio Dzul Manzanilla", times = 9))) |>
+    reactable::reactable(defaultPageSize = 10,
+                         theme = reactablefmtr::flatly(),
+                         filterable = FALSE,
+                         striped = TRUE,
+                         minRows = 10,
+                         resizable = TRUE, 
+                         wrap = FALSE, 
+                         bordered = TRUE)
+
+```
+
+-   [Instalación de Paquetes](https://calm-hummingbird-41cb33.netlify.app/talks/pkg_installation/#/)
+
+-   [dengueverse](https://calm-hummingbird-41cb33.netlify.app/talks/dengueverse/#/dengueverse)
+
+-   [Datos Espaciales](https://calm-hummingbird-41cb33.netlify.app/talks/spatial_data/#/)
+
+
+### Módulo V. Focos de la Transmisión Activa de las Arbovirosis.
+
+```{r temario_modulo_II, echo=FALSE}
+tibble::tibble(Temas = c("Bases del SINAVE",
+                         "Geocodificación",
+                         "Cadenas de Transmisión",
+                         "Mapas de Calor",
+                         "Modelo Log-Gaussian Cox Processed"),
+               Instructor = c("Felipe Antonio Dzul Manzanilla")) |>
+    reactable::reactable(defaultPageSize = 5,
+                         theme = reactablefmtr::flatly(),
+                         filterable = FALSE,
+                         striped = TRUE,
+                         minRows = 5,
+                         resizable = TRUE, 
+                         wrap = FALSE, 
+                         bordered = TRUE)
+```
+
+- [Geocoding API Key](https://fancy-arithmetic-194be1.netlify.app/talks/api_key_google/#/title-slide)
+
+
+### Módulo III. Hotspots de la abundancia de huevos del vector del dengue en las localidades urbanas endémicas de México
+
+```{r temario_modulo_3, echo=FALSE}
+tibble::tibble(Tema = c("Bajar las bases de Ovitrampas",
+                        "Análisis Geoestadístico con INLA",
+                        "Algoritmo para el Análisis Geoestadístico",
+                        "Visualización de la predicion de huevos",
+                        "Hotspots de huevos e Intensidad",
+                        "Visualizacion de los hotspots de huevos"),
+               Instructor = c("Luis Hernández-Herrera",
+                              rep("Felipe Antonio Dzul Manzanilla", 
+                                  times = 5))) |>
+    reactable::reactable(defaultPageSize = 6,
+                         theme = reactablefmtr::flatly(),
+                         filterable = FALSE,
+                         striped = TRUE,
+                         minRows = 6,
+                         resizable = TRUE, 
+                         wrap = FALSE, 
+                         bordered = TRUE)
+
+```
+
+-   [Hotspots de Vector del Dengue](https://animated-longma-729cee.netlify.app/talks/hotspots_eggs/#1)
+
+-   [Hotspots de Vector del Dengue en R](https://animated-longma-729cee.netlify.app/talks/hotspots_eggs_r/#1)
+

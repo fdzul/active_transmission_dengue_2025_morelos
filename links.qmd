@@ -1,0 +1,71 @@
+---
+title: ""
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+# Geocomputacion with R
+
+[![](https://geocompx.org/static/img/book_cover_r2.jpg)](https://r.geocompx.org)
+
+------------------------------------------------------------------------
+
+# Geocomputacion with Python
+
+[![](https://geocompx.org/static/img/book_cover_py.png)](https://py.geocompx.org)
+
+------------------------------------------------------------------------
+
+# Geocomputacion with Julia
+
+[![](https://geocompx.org/static/img/book_cover_jl.png)](https://jl.geocompx.org)
+
+------------------------------------------------------------------------
+
+# Spatial Data Science in R
+
+[![](https://r-spatial.org/book/images/cover.jpg)](https://r-spatial.org/book/)
+
+------------------------------------------------------------------------
+
+# Spatial, Temporal and Spatial-Temporal Ecological Data Analysis with R
+
+[![](https://www.highstat.com/images/Both_Smaller.jpg)](https://www.highstat.com/index.php/books2?view=article&id=25&catid=18)
+
+------------------------------------------------------------------------
+
+# Spatial, Temporal and Spatio-temporal Bayesian Models with R-INLA
+
+[![](https://github.com/michelacameletti/Spatial-and-Spatio-Temporal-Bayesian-Models-with-R-INLA/raw/master/cover.jpg)](https://github.com/michelacameletti/Spatial-and-Spatio-Temporal-Bayesian-Models-with-R-INLA)
+
+------------------------------------------------------------------------
+
+# Dynamic Time Series Models R INLA
+
+[![](https://ramanbala.github.io/dynamic-time-series-models-R-INLA/book_cover_image.png)](https://ramanbala.github.io/dynamic-time-series-models-R-INLA)
+
+------------------------------------------------------------------------
+
+# Spatial Statistics For Data Science
+
+[![](https://www.paulamoraga.com/img/imagespaula/book-geospatial-img/bookcoverspatial.jpg)](https://www.paulamoraga.com/book-spatial/)
+
+------------------------------------------------------------------------
+
+# Geospatial Health Data. Mododeling and Visualization with R-INLA and Shiny
+
+[![](https://www.paulamoraga.com/img/imagespaula/book-geospatial-img/bookcover.jpg)](https://www.paulamoraga.com/book-geospatial/)
+
+------------------------------------------------------------------------
+
+# Geographic Data Science With R
+
+[![](https://bookdown.org/mcwimberly/gdswr-book/images/cover.png)](https://bookdown.org/mcwimberly/gdswr-book/?fbclid=IwAR3wwMaVwKIiWrG76t4l8tFuwp9E1FvHtpbjHsTIVz8TShga8emHhROkfug)
+
+------------------------------------------------------------------------
+
+# Advanced Spaatial Modeling With Stochastic Partial Differential Equations Using R and INLA
+
+[ ]()
+[![](https://becarioprecario.bitbucket.io/spde-gitbook/graphics/book_cover.jpg)](https://becarioprecario.bitbucket.io/spde-gitbook/)

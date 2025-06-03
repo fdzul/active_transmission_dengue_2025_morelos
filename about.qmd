@@ -1,0 +1,69 @@
+---
+title: ""
+---
+
+## Formato del Curso
+
+Curso presencial de Lunes, Miercoles y Jueves.
+
+## Sede
+
+Borda 3, Cuernavaca Centro, Centro, 62000 Cuernavaca, Morelos, México.
+
+```{r, echo=FALSE}
+tibble::tibble(lat = 18.920264,
+               long = -99.238440) |>
+    sf::st_as_sf(coords = c("long", "lat"),
+                 crs = 4326) |>
+mapview::mapview(legend = F)
+```
+
+## Fecha
+
+2 y 4 de Junio de 2025
+
+## Requisitos de conceptos teóricos
+
+Es ideal tener conocimientos de los conceptos básicos de los sistemas de información geográfica (SIG), como vector (puntos, líneas y polígonos), ráster y sistemas de referencia de coordenadas (Coordinate Reference System = CRS), pero no es necesario.
+
+## Requisitos computacionales
+
+Es deseable tener experiencia en R o Python o cualquier otro lenguaje de programación, principalmente en subir archivos de texto (csv, txt, xlsx), archivos geográficos, crear gráficos simples y manipular bases de datos en R. Sin embargo, si no se tiene experiencia con R pero ya usa software SIG y tiene un conocimiento sólido de los tipos de datos geográficos, algo o nula experiencia en programación, el curso también puede ser apropiado para usted siempre y cuando tenga la necesidad o el deseo aprender nuevas herramientas para la elaboración y diseño de mapas en R.
+
+## Requisitos de Equipo & Software
+
+-   **Computadora**
+
+    Se requiere una computadora portátil o de escritorio con una versión funcional de R, RStudio y Rtools. R y RStudio están disponibles como software gratuito y de código abierto para Windows, Mac y Linux. R y Rtools se puede descargar siguiendo el enlace <https://www.r-project.org/>. RStudio se puede descargar siguiendo el enlace: <https://posit.co/>.
+
+    En el curso se abordarán brevemente otras IDE (Integrated Development Environment) para trabajar con R.
+
+    -   [Positron](https://positron.posit.co/download.html)
+    -   [Visual Studio Code](https://code.visualstudio.com)
+    -   [Google Colaboratory](https://colab.research.google.com)
+
+-   **Experiencia en la instalación de paquetes en R**
+
+    Todos los paquetes R que utilizaremos en este curso se podrán descargar e instalar durante el taller en sí, según sea necesario, y se pondrá a disposición de todos los asistentes una lista completa de los paquetes necesarios antes del curso
+
+-   **Claves del SINAVE**
+
+    Es importante contar con su usuario y contraseña del modulo de vectores del SINAVE. En el taller se usarán las bases de datos de vectores (principalmente DENGUE) para la elaboración de los mapas.
+
+-   **Requisitos adicionales**
+
+    Es conveniente contar con una cámara web que funcione para mejorar la interactividad durante las sesiones. Así mismo, recomendamos a los asistentes que mantengan sus cámaras apagadas durante las sesiones y microfonos apagados. Aunque no es estrictamente obligatorio, el uso de un monitor grande o, preferiblemente, incluso un segundo monitor mejorará la experiencia de aprendizaje.
+
+## Inscripción al curso
+
+Las inscripciones estarán abiertas tan pronto como el Director & Subdirector de Vectores del CENAPRECE autorize las unidades didácticas del curso. El link para la inscripción la encontrarán en este apartado.
+
+[Inscripción](https://docs.google.com/forms/d/1NkfcigcOUpEU_CZiEwqVk3KB-eesDk5B9FmZouuNev0/edit#settings)
+
+## Examen
+
+Se realizá un examen previo y posterior al curso. El examen previo se realizá una semana antes del curso y el examen posterior se realizará durante el curso.
+
+[Examen Previo](https://docs.google.com/forms/d/1V1DptfSkH-LxX-7qJrVH1LLumK0Ropi10Ak_eLSxn9c/edit?pli=1)
+
+[Examen Posterior]()

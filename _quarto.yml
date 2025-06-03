@@ -1,0 +1,46 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-footer: "Copyright 2025, Felipe Antonio Dzul Manzanilla | Fabián Correa-Morales"
+  title: "Focos de Transmisión Activa del Dengue en Morelos"
+  repo-url: https://github.com/fdzul/active_transmission_dengue_2025_morelos-dev
+  repo-actions: [edit, issue]
+  favicon: imagenes/logo_course.jpeg
+  twitter-card: true
+  navbar:
+    logo: imagenes/logo_course.jpeg
+    tools:
+      - icon: twitter
+        href: https://twitter.com/FdzulM
+      - icon: github
+        menu:
+          - text: Source Code
+            url:  https://code.com
+          - text: Report a Bug
+            url:  https://bugs.com
+    left:
+      - href: index.qmd
+        text: Objetivos
+      - href: about.qmd
+        text: Detalles
+      - text: "Temario"
+        href: temario.html
+      - text: "Labs"
+        href: Labs.html
+      - text: "Referencias"
+        href: links.html
+      - text: "Contacto"
+        href: contacto.html
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+margin-header: |
+ ![](imagenes/logo_course2.png)
+

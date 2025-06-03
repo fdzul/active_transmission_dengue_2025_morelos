@@ -1,0 +1,63 @@
+---
+title: ""
+---
+
+## Laboratorio de la Unidad I
+
+### Objetivo.
+
+Que el personal de vectores desarrolle las competencias específicas para instalar paquetes desde [CRAN](https://cran.r-project.org), [GitHub](https://github.com) o archivos binarios.
+
+### Actividad 1
+
+Instalar los siguientes paquete desde CRAN
+
+-   [tidyverse](https://www.tidyverse.org)
+-   [easystats](https://easystats.github.io/easystats/)
+-   [tidymodels](https://www.tidymodels.org)
+-   [data.table](http://rdatatable.gitlab.io/data.table/)
+-   [reactable](https://glin.github.io/reactable/)
+
+Instalar los siguientes paquete desde GitHub
+
+-   [KrigR](https://github.com/ErikKusch/KrigR)
+
+## Laboratorio de la Unidad II
+
+### Objetivo.
+
+Que el personal de vectores desarrolle las competencias específicas para realizar la geocodificación y el análisis de los focos de la transmisión activa de las arbovirosis en R
+
+### Actividad 1
+
+1.  Bajar la carpeta [geocodificación_dengue_sinave_edo17](https://github.com/fdzul/geocodificacion_dengue_sinave_edo17) de GitHub.
+
+2.  Geocodificar las bases de datos históricas del [SINAVE](https://www.sinave.gob.mx).
+
+### Actividad 2
+
+1.  Bajar la carpeta [Focos de Transmisión Activa de las arbovirosis](https://github.com/fdzul/focos_transmision_activa_dengue_2025_morelos) de GitHub.
+
+2.  Realizar el análisis de los focos de transmisión activa en la o las localidades prioritarias del estado.
+
+3.  Elaborar los mapas estáticos e interactivos
+
+## Laboratorio de la Unidad III
+
+### Objetivo.
+
+Que el personal de vectores desarrolle las competencias específicas para realizar la predicción de huevos usando el análisis geoestadístico con SPDE-INLA.
+
+### Actividad 2
+
+1.  Bajar las bases de datos históricas de las lecturas de ovitrampas del 2014 al 2019
+
+2.  Bajar las bases de datos de lecturas de ovitrampas del año en curso hasta el mes que se esta realizando el curso.
+
+### Actividad 2
+
+1.  Bajar la carpeta [eggs_hotspots_17_morelos]() de GitHub.
+
+2.  Realizar la predicción del número de huevos en la o las localidades prioritarias del estado de procedencia del personal que asiste al curso.
+
+3.  Visualizar los mapas predictivos.
