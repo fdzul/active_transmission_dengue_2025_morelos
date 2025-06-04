@@ -6,7 +6,6 @@ title: ""
 
 ![](https://www.ssm.gob.mx/portal/img/ssm_logo_OK_VEDA.png)
 
-
 # **Objetivo General**
 
 El curso títulado **Identificación de los Focos de Transmisión Activa de las Arbovirosis en R** tiene como objetivo central desarrollar las competencias específicas para la identificación de los escenarios operativo o epidemiológicos del riesgo de la transmisión de los virus del dengue en áreas urbanas y metropolitanas de México usando información entomológica y epidemiológica con la finalidad orientar las acciones de prevención y control del Manejo Integrado de las Arbovirosis en México.
