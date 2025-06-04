@@ -81,7 +81,7 @@
     "href": "contacto.html",
     "title": "Dr. Felipe Antonio Dzul Manzanilla",
     "section": "",
-    "text": "Dr. Felipe Antonio Dzul Manzanilla\n\nTelefono personal: 999 958 0167\nTelefono oficina: 329 30 00 Ext. 3225\nCorreo: felipe.dzul.m@gmail.com, investigador41@insp.mx\nGoogle académico: https://scholar.google.es/citations?user=3e3-4VkAAAAJ&hl=es\ngithub: https://github.com/fdzul\nbio : https://sparkly-kleicha-e38ffa.netlify.app\ninsp: https://www.insp.mx/centros/sistemas-de-salud/investigador/dzul-manzanilla-felipe-antonio\n\n\n\nDr. Fabián Correa Morales\n\nTelefono personal: 55 7474 5576\nCorreo: fabiancorrea@msn.com\nGoogle académico: https://scholar.google.com/citations?hl=en&user=JceGxawAAAAJ\n\n\n\nDr. Héctor Gómez Dantes\n\nTelefono oficina: 329 30 00 Ext. 3225\nCorreo: hector.gomez@@insp.mx\nGoogle académico: https://scholar.google.es/citations?user=wl8S934AAAAJ&hl=es\ninsp: https://insp.mx/centros/sistemas-de-salud/investigador/gomez-dantes-hector"
+    "text": "Dr. Felipe Antonio Dzul Manzanilla\n\nTelefono personal: 999 958 0167\nTelefono oficina: 329 30 00 Ext. 3225\nCorreo: felipe.dzul.m@gmail.com, investigador41@insp.mx\nGoogle académico: https://scholar.google.es/citations?user=3e3-4VkAAAAJ&hl=es\ngithub: https://github.com/fdzul\nbio : https://sparkly-kleicha-e38ffa.netlify.app\ninsp: https://www.insp.mx/centros/sistemas-de-salud/investigador/dzul-manzanilla-felipe-antonio\n\n\n\nDr. Fabián Correa Morales\n\nTelefono personal: 55 7474 5576\nCorreo: fabiancorrea@msn.com\nGoogle académico: https://scholar.google.com/citations?hl=en&user=JceGxawAAAAJ\n\n\n\nDr. Héctor Gómez Dantes\n\nTelefono oficina: 329 30 00 Ext. 3225\nCorreo: hector.gomez@@insp.mx\nGoogle académico: https://scholar.google.es/citations?user=wl8S934AAAAJ&hl=es\ninsp: https://insp.mx/centros/sistemas-de-salud/investigador/gomez-dantes-hector\n\n # Dra. Angelita Gómez Gómez\n\nTelefono personal: 7771396235\nTelefono oficina: 777 3622370/3622400 ext. 5262 y 5263\nCorreo: coordinacionzyv@ssm.gob.mx"
   },
   {
     "objectID": "about.html",
@@ -145,5 +145,12 @@
     "title": "Focos de Transmisión Activa del Dengue en Morelos",
     "section": "Examen",
     "text": "Examen\nSe realizá un examen previo y posterior al curso. El examen previo se realizá una semana antes del curso y el examen posterior se realizará durante el curso.\nExamen Previo\nExamen Posterior"
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Introduction\nThis is a book created from markdown and executable code.\nSee @knuth84 for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2"
   }
 ]
