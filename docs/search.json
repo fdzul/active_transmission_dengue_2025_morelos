@@ -7,81 +7,11 @@
     "text": "Objetivo General\nEl curso títulado Identificación de los Focos de Transmisión Activa de las Arbovirosis en R tiene como objetivo central desarrollar las competencias específicas para la identificación de los escenarios operativo o epidemiológicos del riesgo de la transmisión de los virus del dengue en áreas urbanas y metropolitanas de México usando información entomológica y epidemiológica con la finalidad orientar las acciones de prevención y control del Manejo Integrado de las Arbovirosis en México.\n\n\nObjetivos Específicos\n\nIdentificar los hotspots de la abundancia de huevos del vector del dengue en las localidades urbanas endémicas de México.\nIdentificar las cadenas de transmisión activa del dengue en las localidades urbanas endémicas de México.\nImplementar el modelo Log Gaussian Cox Process en las localidades urbanas endémicas de México.\nGenerar los mapas de calor en las localidades urbanas endémicas de México.\nDesarrollar un modelo estratégico de focalización del dengue en las localidades urbanas endémicas de México.\n\n\n\nAudiencia\nEl curso de Identificación de los Focos de Transmisión Persistente & Activa de las Arbovirosis en R esta complementado con el desarrollo de paquetes colectivamente llamados dengueverse (rgeomex, denhotspots, deneggs, dencontrol, denepikit) y el manual para la identificación de los hotspots en las localidades urbanas endémicas. Tanto los cursos, el parquete y el manual, no solo está dirigido al personal operativo, mandos medios y directivos de los Programas de Prevención y Control de las arbovirosis transmitidas por Aedes de la Secretaría de Salud de México, sino también a la comunidad académica relacionada con la investigación operativa sobre el análisis espacial de dengue y al público en general interesado en el tema."
   },
   {
-    "objectID": "temario.html",
-    "href": "temario.html",
-    "title": "Focos de Transmisión Activa del Dengue en Morelos",
-    "section": "",
-    "text": "El curso esta complementado con el desarrollo de paquetes en R y el manual para la identificación de los hotspots en las localidades urbanas endémicas. Tanto los cursos, el parquete y el manual, no solo está dirigido al personal operativo, mandos medios y directivos de los Programas de Prevención y Control de las arbovirosis transmitidas por Aedes de la Secretaría de Salud de México, sino también a la comunidad académica relacionada con la investigación operativa sobre el análisis espacial de dengue y al público en general interesado en el tema."
-  },
-  {
-    "objectID": "temario.html#audiencia",
-    "href": "temario.html#audiencia",
-    "title": "Focos de Transmisión Activa del Dengue en Morelos",
-    "section": "",
-    "text": "El curso esta complementado con el desarrollo de paquetes en R y el manual para la identificación de los hotspots en las localidades urbanas endémicas. Tanto los cursos, el parquete y el manual, no solo está dirigido al personal operativo, mandos medios y directivos de los Programas de Prevención y Control de las arbovirosis transmitidas por Aedes de la Secretaría de Salud de México, sino también a la comunidad académica relacionada con la investigación operativa sobre el análisis espacial de dengue y al público en general interesado en el tema."
-  },
-  {
-    "objectID": "temario.html#temario",
-    "href": "temario.html#temario",
-    "title": "Focos de Transmisión Activa del Dengue en Morelos",
-    "section": "Temario",
-    "text": "Temario"
-  },
-  {
-    "objectID": "temario.html#módulo-i.-requisitos-básicos",
-    "href": "temario.html#módulo-i.-requisitos-básicos",
-    "title": "Focos de Transmisión Activa del Dengue en Morelos",
-    "section": "Módulo I. Requisitos Básicos",
-    "text": "Módulo I. Requisitos Básicos\n\n\n\n\n\n\n\nInstalación de Paquetes\ndengueverse\nDatos Espaciales\n\n\nMódulo V. Focos de la Transmisión Activa de las Arbovirosis.\n\n\n\n\n\n\n\nGeocoding API Key\n\n\n\nMódulo III. Hotspots de la abundancia de huevos del vector del dengue en las localidades urbanas endémicas de México\n\n\n\n\n\n\n\nHotspots de Vector del Dengue\nHotspots de Vector del Dengue en R"
-  },
-  {
     "objectID": "references.html",
     "href": "references.html",
     "title": "References",
     "section": "",
     "text": "References"
-  },
-  {
-    "objectID": "Labs.html",
-    "href": "Labs.html",
-    "title": "Focos de Transmisión Activa del Dengue en Morelos",
-    "section": "",
-    "text": "Que el personal de vectores desarrolle las competencias específicas para instalar paquetes desde CRAN, GitHub o archivos binarios.\n\n\n\nInstalar los siguientes paquete desde CRAN\n\ntidyverse\neasystats\ntidymodels\ndata.table\nreactable\n\nInstalar los siguientes paquete desde GitHub\n\nKrigR"
-  },
-  {
-    "objectID": "Labs.html#laboratorio-de-la-unidad-i",
-    "href": "Labs.html#laboratorio-de-la-unidad-i",
-    "title": "Focos de Transmisión Activa del Dengue en Morelos",
-    "section": "",
-    "text": "Que el personal de vectores desarrolle las competencias específicas para instalar paquetes desde CRAN, GitHub o archivos binarios.\n\n\n\nInstalar los siguientes paquete desde CRAN\n\ntidyverse\neasystats\ntidymodels\ndata.table\nreactable\n\nInstalar los siguientes paquete desde GitHub\n\nKrigR"
-  },
-  {
-    "objectID": "Labs.html#laboratorio-de-la-unidad-ii",
-    "href": "Labs.html#laboratorio-de-la-unidad-ii",
-    "title": "Focos de Transmisión Activa del Dengue en Morelos",
-    "section": "Laboratorio de la Unidad II",
-    "text": "Laboratorio de la Unidad II\n\nObjetivo.\nQue el personal de vectores desarrolle las competencias específicas para realizar la geocodificación y el análisis de los focos de la transmisión activa de las arbovirosis en R\n\n\nActividad 1\n\nBajar la carpeta geocodificación_dengue_sinave_edo17 de GitHub.\nGeocodificar las bases de datos históricas del SINAVE.\n\n\n\nActividad 2\n\nBajar la carpeta Focos de Transmisión Activa de las arbovirosis de GitHub.\nRealizar el análisis de los focos de transmisión activa en la o las localidades prioritarias del estado.\nElaborar los mapas estáticos e interactivos"
-  },
-  {
-    "objectID": "Labs.html#laboratorio-de-la-unidad-iii",
-    "href": "Labs.html#laboratorio-de-la-unidad-iii",
-    "title": "Focos de Transmisión Activa del Dengue en Morelos",
-    "section": "Laboratorio de la Unidad III",
-    "text": "Laboratorio de la Unidad III\n\nObjetivo.\nQue el personal de vectores desarrolle las competencias específicas para realizar la predicción de huevos usando el análisis geoestadístico con SPDE-INLA.\n\n\nActividad 2\n\nBajar las bases de datos históricas de las lecturas de ovitrampas del 2014 al 2019\nBajar las bases de datos de lecturas de ovitrampas del año en curso hasta el mes que se esta realizando el curso.\n\n\n\nActividad 2\n\nBajar la carpeta eggs_hotspots_17_morelos de GitHub.\nRealizar la predicción del número de huevos en la o las localidades prioritarias del estado de procedencia del personal que asiste al curso.\nVisualizar los mapas predictivos."
-  },
-  {
-    "objectID": "links.html",
-    "href": "links.html",
-    "title": "Geocomputacion with R",
-    "section": "",
-    "text": "Geocomputacion with R\n\n\n\n\nGeocomputacion with Python\n\n\n\n\nGeocomputacion with Julia\n\n\n\n\nSpatial Data Science in R\n\n\n\n\nSpatial, Temporal and Spatial-Temporal Ecological Data Analysis with R\n\n\n\n\nSpatial, Temporal and Spatio-temporal Bayesian Models with R-INLA\n\n\n\n\nDynamic Time Series Models R INLA\n\n\n\n\nSpatial Statistics For Data Science\n\n\n\n\nGeospatial Health Data. Mododeling and Visualization with R-INLA and Shiny\n\n\n\n\nGeographic Data Science With R\n\n\n\n\nAdvanced Spaatial Modeling With Stochastic Partial Differential Equations Using R and INLA"
-  },
-  {
-    "objectID": "contacto.html",
-    "href": "contacto.html",
-    "title": "Dr. Felipe Antonio Dzul Manzanilla",
-    "section": "",
-    "text": "Dr. Felipe Antonio Dzul Manzanilla\n\nTelefono personal: 999 958 0167\nTelefono oficina: 329 30 00 Ext. 3225\nCorreo: felipe.dzul.m@gmail.com, investigador41@insp.mx\nGoogle académico: https://scholar.google.es/citations?user=3e3-4VkAAAAJ&hl=es\ngithub: https://github.com/fdzul\nbio : https://sparkly-kleicha-e38ffa.netlify.app\ninsp: https://www.insp.mx/centros/sistemas-de-salud/investigador/dzul-manzanilla-felipe-antonio\n\n\n\nDr. Fabián Correa Morales\n\nTelefono personal: 55 7474 5576\nCorreo: fabiancorrea@msn.com\nGoogle académico: https://scholar.google.com/citations?hl=en&user=JceGxawAAAAJ\n\n\n\nDr. Héctor Gómez Dantes\n\nTelefono oficina: 329 30 00 Ext. 3225\nCorreo: hector.gomez@@insp.mx\nGoogle académico: https://scholar.google.es/citations?user=wl8S934AAAAJ&hl=es\ninsp: https://insp.mx/centros/sistemas-de-salud/investigador/gomez-dantes-hector\n\n # Dra. Angelita Gómez Gómez\n\nTelefono personal: 7771396235\nTelefono oficina: 777 3622370/3622400 ext. 5262 y 5263\nCorreo: coordinacionzyv@ssm.gob.mx"
   },
   {
     "objectID": "about.html",
@@ -147,10 +77,80 @@
     "text": "Examen\nSe realizá un examen previo y posterior al curso. El examen previo se realizá una semana antes del curso y el examen posterior se realizará durante el curso.\nExamen Previo\nExamen Posterior"
   },
   {
+    "objectID": "contacto.html",
+    "href": "contacto.html",
+    "title": "Dr. Felipe Antonio Dzul Manzanilla",
+    "section": "",
+    "text": "Dr. Felipe Antonio Dzul Manzanilla\n\nTelefono personal: 999 958 0167\nTelefono oficina: 329 30 00 Ext. 3225\nCorreo: felipe.dzul.m@gmail.com, investigador41@insp.mx\nGoogle académico: https://scholar.google.es/citations?user=3e3-4VkAAAAJ&hl=es\ngithub: https://github.com/fdzul\nbio : https://sparkly-kleicha-e38ffa.netlify.app\ninsp: https://www.insp.mx/centros/sistemas-de-salud/investigador/dzul-manzanilla-felipe-antonio\n\n\n\nDr. Fabián Correa Morales\n\nTelefono personal: 55 7474 5576\nCorreo: fabiancorrea@msn.com\nGoogle académico: https://scholar.google.com/citations?hl=en&user=JceGxawAAAAJ\n\n\n\nDr. Héctor Gómez Dantes\n\nTelefono oficina: 329 30 00 Ext. 3225\nCorreo: hector.gomez@@insp.mx\nGoogle académico: https://scholar.google.es/citations?user=wl8S934AAAAJ&hl=es\ninsp: https://insp.mx/centros/sistemas-de-salud/investigador/gomez-dantes-hector\n\n # Dra. Angelita Gómez Gómez\n\nTelefono personal: 7771396235\nTelefono oficina: 777 3622370/3622400 ext. 5262 y 5263\nCorreo: coordinacionzyv@ssm.gob.mx"
+  },
+  {
+    "objectID": "temario.html",
+    "href": "temario.html",
+    "title": "Focos de Transmisión Activa del Dengue en Morelos",
+    "section": "",
+    "text": "El curso esta complementado con el desarrollo de paquetes en R y el manual para la identificación de los hotspots en las localidades urbanas endémicas. Tanto los cursos, el parquete y el manual, no solo está dirigido al personal operativo, mandos medios y directivos de los Programas de Prevención y Control de las arbovirosis transmitidas por Aedes de la Secretaría de Salud de México, sino también a la comunidad académica relacionada con la investigación operativa sobre el análisis espacial de dengue y al público en general interesado en el tema."
+  },
+  {
+    "objectID": "temario.html#audiencia",
+    "href": "temario.html#audiencia",
+    "title": "Focos de Transmisión Activa del Dengue en Morelos",
+    "section": "",
+    "text": "El curso esta complementado con el desarrollo de paquetes en R y el manual para la identificación de los hotspots en las localidades urbanas endémicas. Tanto los cursos, el parquete y el manual, no solo está dirigido al personal operativo, mandos medios y directivos de los Programas de Prevención y Control de las arbovirosis transmitidas por Aedes de la Secretaría de Salud de México, sino también a la comunidad académica relacionada con la investigación operativa sobre el análisis espacial de dengue y al público en general interesado en el tema."
+  },
+  {
+    "objectID": "temario.html#temario",
+    "href": "temario.html#temario",
+    "title": "Focos de Transmisión Activa del Dengue en Morelos",
+    "section": "Temario",
+    "text": "Temario"
+  },
+  {
+    "objectID": "temario.html#módulo-i.-requisitos-básicos",
+    "href": "temario.html#módulo-i.-requisitos-básicos",
+    "title": "Focos de Transmisión Activa del Dengue en Morelos",
+    "section": "Módulo I. Requisitos Básicos",
+    "text": "Módulo I. Requisitos Básicos\n\n\n\n\n\n\n\nInstalación de Paquetes\ndengueverse\nDatos Espaciales\n\n\nMódulo V. Focos de la Transmisión Activa de las Arbovirosis.\n\n\n\n\n\n\n\nGeocoding API Key\n\n\n\nMódulo III. Hotspots de la abundancia de huevos del vector del dengue en las localidades urbanas endémicas de México\n\n\n\n\n\n\n\nHotspots de Vector del Dengue\nHotspots de Vector del Dengue en R"
+  },
+  {
     "objectID": "intro.html",
     "href": "intro.html",
     "title": "Introduction",
     "section": "",
     "text": "Introduction\nThis is a book created from markdown and executable code.\nSee @knuth84 for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Labs.html",
+    "href": "Labs.html",
+    "title": "Focos de Transmisión Activa del Dengue en Morelos",
+    "section": "",
+    "text": "Que el personal de vectores desarrolle las competencias específicas para instalar paquetes desde CRAN, GitHub o archivos binarios.\n\n\n\nInstalar los siguientes paquete desde CRAN\n\ntidyverse\neasystats\ntidymodels\ndata.table\nreactable\n\nInstalar los siguientes paquete desde GitHub\n\nKrigR"
+  },
+  {
+    "objectID": "Labs.html#laboratorio-de-la-unidad-i",
+    "href": "Labs.html#laboratorio-de-la-unidad-i",
+    "title": "Focos de Transmisión Activa del Dengue en Morelos",
+    "section": "",
+    "text": "Que el personal de vectores desarrolle las competencias específicas para instalar paquetes desde CRAN, GitHub o archivos binarios.\n\n\n\nInstalar los siguientes paquete desde CRAN\n\ntidyverse\neasystats\ntidymodels\ndata.table\nreactable\n\nInstalar los siguientes paquete desde GitHub\n\nKrigR"
+  },
+  {
+    "objectID": "Labs.html#laboratorio-de-la-unidad-ii",
+    "href": "Labs.html#laboratorio-de-la-unidad-ii",
+    "title": "Focos de Transmisión Activa del Dengue en Morelos",
+    "section": "Laboratorio de la Unidad II",
+    "text": "Laboratorio de la Unidad II\n\nObjetivo.\nQue el personal de vectores desarrolle las competencias específicas para realizar la geocodificación y el análisis de los focos de la transmisión activa de las arbovirosis en R\n\n\nActividad 1\n\nBajar la carpeta geocodificación_dengue_sinave_edo17 de GitHub.\nGeocodificar las bases de datos históricas del SINAVE.\n\n\n\nActividad 2\n\nBajar la carpeta Focos de Transmisión Activa de las arbovirosis de GitHub.\nRealizar el análisis de los focos de transmisión activa en la o las localidades prioritarias del estado.\nElaborar los mapas estáticos e interactivos"
+  },
+  {
+    "objectID": "Labs.html#laboratorio-de-la-unidad-iii",
+    "href": "Labs.html#laboratorio-de-la-unidad-iii",
+    "title": "Focos de Transmisión Activa del Dengue en Morelos",
+    "section": "Laboratorio de la Unidad III",
+    "text": "Laboratorio de la Unidad III\n\nObjetivo.\nQue el personal de vectores desarrolle las competencias específicas para realizar la predicción de huevos usando el análisis geoestadístico con SPDE-INLA.\n\n\nActividad 2\n\nBajar las bases de datos históricas de las lecturas de ovitrampas del 2014 al 2019\nBajar las bases de datos de lecturas de ovitrampas del año en curso hasta el mes que se esta realizando el curso.\n\n\n\nActividad 2\n\nBajar la carpeta eggs_hotspots_17_morelos de GitHub.\nRealizar la predicción del número de huevos en la o las localidades prioritarias del estado de procedencia del personal que asiste al curso.\nVisualizar los mapas predictivos."
+  },
+  {
+    "objectID": "links.html",
+    "href": "links.html",
+    "title": "Geocomputacion with R",
+    "section": "",
+    "text": "Geocomputacion with R\n\n\n\n\nGeocomputacion with Python\n\n\n\n\nGeocomputacion with Julia\n\n\n\n\nSpatial Data Science in R\n\n\n\n\nSpatial, Temporal and Spatial-Temporal Ecological Data Analysis with R\n\n\n\n\nSpatial, Temporal and Spatio-temporal Bayesian Models with R-INLA\n\n\n\n\nDynamic Time Series Models R INLA\n\n\n\n\nSpatial Statistics For Data Science\n\n\n\n\nGeospatial Health Data. Mododeling and Visualization with R-INLA and Shiny\n\n\n\n\nGeographic Data Science With R\n\n\n\n\nAdvanced Spaatial Modeling With Stochastic Partial Differential Equations Using R and INLA"
   }
 ]
